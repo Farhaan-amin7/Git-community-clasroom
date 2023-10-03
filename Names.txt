@@ -1,0 +1,3 @@
+this is the new file aftwer all the commits and its used to check wether i can seccessfully merge commits or not
+:x
+
